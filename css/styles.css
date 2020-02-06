@@ -1,19 +1,25 @@
-body{
-  height: 100%
+html, body{
   margin: 0;
-  padding: 0;
+  height: 100%;
 }
 .info{
-  margin: 0;
-  padding: 0;
   height: 300px;
   width: 100%;
   background-color: yellowgreen;
+  display: inline-block;
 }
 .profile_picture{
   float: left;
   margin: 20px;
+  border: 0px solid;
+  border-radius: 20%;
+}
+.names_bio{
+  float: left;
 }
 .names{
-  float: left;
+
+}
+.bio{
+  padding-left:4em;
 }
