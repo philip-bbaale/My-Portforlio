@@ -47,10 +47,16 @@ h4 a{
   padding: 5px;
 }
 span{
-color: blue;
-font-size: 20px;
-font-weight: bold;
-font-family: sans-serif;
+  color: blue;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+span.important_project{
+  color: red;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: sans-serif;
 }
 
 
