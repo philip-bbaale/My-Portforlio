@@ -19,11 +19,38 @@ background: radial-gradient(circle, rgba(236,236,236,1) 3%, rgba(29,9,121,1) 23%
   float: left;
 }
 .names{
-
+  background-color: black;
 }
 .bio{
   padding-left:4em;
+  background-color: black;
 }
+.work{
+  width: 100%;
+  height: auto;
+  border: 2px solid grey;
+  border-radius: 10%;
+  margin: 10px ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 @media screen and (max-width: 1265px) {
