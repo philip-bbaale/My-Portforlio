@@ -5,7 +5,7 @@ Author: Namugera Bbaale Philip.
 
 Project Description: To show case my progress at Moringa. ie. projects done.
 
-link to live site on GitHub Pages: https://github.com/scrupycoco/My-Portfolio
+link to live site on GitHub Pages: https://scrupycoco.github.io/My-Portfolio/
 
 Project setup instructions:
 Congratulations on beginning your journey toward becoming a developer! As a developer, you need a web portfolio to showcase your work. Today, you will be creating the landing page for your programming portfolio. 
@@ -35,6 +35,6 @@ project setup instructions
 link to live site on GitHub Pages
 copyright and license information
 
-link to live site on GitHub Pages: https://github.com/scrupycoco/My-Portfolio
+link to live site on GitHub Pages: https://scrupycoco.github.io/My-Portfolio/
 
 copyright and license information:____________
