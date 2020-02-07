@@ -12,6 +12,7 @@ rgba(189,56,157,1) 52%, rgba(175,165,70,1) 78%, rgba(0,129,255,1) 100%);
 }
 h4 a{
   text-decoration: none;
+  color: green;
 }
 .profile_picture{
   float: left;
@@ -23,11 +24,11 @@ h4 a{
   float: left;
 }
 .names{
-  background-color: black;
+  //background-color: black;
 }
 .bio{
   padding-left:4em;
-  background-color: black;
+  //background-color: black;
 }
 .work{
   display: block;
