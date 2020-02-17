@@ -23,12 +23,9 @@ h4 a{
 .names_bio{
   float: left;
 }
-.names{
-  //background-color: black;
-}
+
 .bio{
   padding-left:4em;
-  //background-color: black;
 }
 .work{
   display: block;
@@ -60,7 +57,7 @@ span.important_project{
   font-family: sans-serif;
 }
 span.too_important_project{
-  color: yellow;
+  color: yellowgreen;
   font-size: 20px;
   font-weight: bold;
   font-family: sans-serif;
